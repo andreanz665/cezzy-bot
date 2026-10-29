@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+httpx
+requests
+uvloop
+faker
+colorama
+tabulate
