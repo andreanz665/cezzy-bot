@@ -7,8 +7,8 @@ import os
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # ================= CONFIG =================
-BOT_TOKEN = 'ISI_TOKEN_BOT_LU_DISINI'
-OWNER_ID = 123456789  # Ganti pake ID Telegram lu
+BOT_TOKEN = '8534838890:AAF6iwTMRjRg4epU3K4MEPD67Ezz-42xc1M'
+OWNER_ID = 7257448216  # Ganti pake ID Telegram lu
 # ==========================================
 
 bot = telebot.TeleBot(BOT_TOKEN)
